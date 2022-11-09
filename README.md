@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @moataznoaaaman
-- 👀 I’m interested in Data analysis and Data science
-- 🌱 I’m currently learning Data engineering and Analytics @ TUM
-- 💞️ I’m looking to collaborate on Data analysis or Data science projects or both ;)
-- 📫 How to reach me mmoutaz100@gmail.com, linkedin: mohamed-moataz-noaaman
+<h1 align="center">Hi 👋, I'm Moataz</h1>
+<h3 align="center">Masters student at TUM in the field of Data engineering and Analytics</h3>
 
-<!---
-moataznoaaaman/moataznoaaaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [data lake with spark and AWS](in udacity nano degree)
+
+- 🌱 I’m currently learning **Spark, Unix, c++, AWS**
+
+- 👯 I’m looking to collaborate on **any achallenge in the field of Software engineering, data Engineering, or data analytics**
+
+- 📫 How to reach me **mmoutaz100@gmail.com**
+
+- ⚡ Fun fact **I am an amateur photographer, Petrol head, and pets lover**
+
+- ❤️ I hope we work together soon
+
